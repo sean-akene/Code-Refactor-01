@@ -10,11 +10,12 @@ In order to install and run this project, you will need to clone my github repos
 
 ## Edits
 The Horiseon homepage was made more accessible by carrying out the following edits:
-1. Fixing the "Search Engine Optimization" link by adding a link id in the 	html code. Prior to this fix, the link was completely unresponsive. 
+1. I Fixed the "Search Engine Optimization" link by adding a link id in the 	html code. Prior to this fix, the link was completely unresponsive. 
 
-2. Making the page 508 compliant by adding descriptive alt tags to images, and  increasing the font-size of the page. The main image of the page was also reduced to make the page easier to navigate. The alt tag will serve as a written description of the the images.  
+2. I Made the page 508 compliant by adding descriptive alt tags to images, and  increased the font-size of the page. The main image of the page was also reduced to make the page easier to navigate. The alt tag will serve as a written description of the the images. I also added meta tags in order to improve Search engine optimization (SEO).
 
-3. Auditing the code and ensuring that the CSS is more accurate and erasing a few redundant classes and id's in the html code. The CSS stlyesheet was previously a lot longer than it needed to be.
+
+3. I Audited the code and ensuring that the CSS is more accurate and erased a few redundant classes and id's in the html code. The CSS stlyesheet was previously a lot longer than it needed to be.
 
 
 
